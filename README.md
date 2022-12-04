@@ -11,7 +11,7 @@
 
 2. Fit a tree-based model and interpret the nodes ?
 
-Answer. The XGBoost algorithm was used to plot the first tree, which is shown in the plot. This plot interprets all nodes (root, leaf, and intermediate). The model's final judgments and the number of splits required to get there are shown in this figure. The root node in the plot shown is "SPECIES." the tree diagrams of the first three trees' node interpretability is shown in tree section.
+      Answer. The XGBoost algorithm was used to plot the first tree, which is shown in the plot. This plot interprets all nodes (root, leaf, and intermediate). The model's final judgments and the number of splits required to get there are shown in this figure. The root node in the plot shown is "SPECIES." the tree diagrams of the first three trees' node interpretability is shown in tree section.
 
 
 
