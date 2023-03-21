@@ -4,6 +4,7 @@
 
 
 
+
 1. Fit a linear model and interpret the regression ?
       
       Answer. When the variable "species" is increased, there is increase in culmen_length_mm by more than 4x (i.e. 4.213). In contrast, as "body_mass_g" concentration rises, there is increase in culmen_length_mm by only 0.83 .
